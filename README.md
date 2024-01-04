@@ -6,4 +6,4 @@ Purpose -  My model predicts the list of top 30 similar movies based on your inp
 
 Dataset - Contains data of about 4803 movies
 
-Alogorithm used - Cosine Similarity Algorithm.
+Algorithm used - Cosine Similarity Algorithm.
